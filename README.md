@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?$(paperthink)=page.id)
+https://visitor-badge.laobi.icu/badge?page_id=paperthink.visitor-badge 
 Hi EveryBody!!!!
 
 I am ✨Pratyush Saha!!✨
