@@ -1,11 +1,11 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=paperthink)
 
-Love <img src="https://img.shields.io/badge/--3776AB?logo=python&logoColor=white&style=for-the-badge" height="80">
+Love <img src="https://img.shields.io/badge/--3776AB?logo=python&logoColor=white&style=for-the-badge" height="200">
 
 
 Hi EveryBody!!!!
 
-I am ✨Pratyush Saha!!✨
+I am ✨Pratyush Saha!!✨   
 
 I made this profile to contribute opensource✅ and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python projects to enhance my skills! Also interested in Web Dev
 
