@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=paperthink)
 
-Love ![python]https://img.shields.io/badge/--green?logo=python&logoColor=white
+Love [![Python](https://img.shields.io/badge/--3776AB?logo=python&logoColor=white)](https://www.python.org)
 
 Hi EveryBody!!!!
 
