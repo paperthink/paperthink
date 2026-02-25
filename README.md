@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=paperthink/style=for-the-badge)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=paperthink?style=for-the-badge)
 
 Love <img src="https://img.shields.io/badge/--3776AB?logo=python&logoColor=white&style=for-the-badge" height="200">
 
