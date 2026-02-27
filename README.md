@@ -7,7 +7,9 @@ I am ✨Pratyush Saha!!✨
 
 I made this profile to contribute opensource✅(mainly opencore) and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python projects to enhance my skills! 
 
-![Nyan Cat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bm5qZzR4eGZ3bm5qZzR4eGZ3bm5qZzR4eGZ3bm5qZzR4&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bm5qZzR4eGZ3bm5qZzR4eGZ3bm5qZzR4eGZ3bm5qZzR4&ep=v1_gifs_search&rid=20240320_nyan.gif&ct=g" width="200" />
+</p>
 
 
 
