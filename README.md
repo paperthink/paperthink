@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=paperthink?style=for-the-badge)
 
-Love   ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+Love   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 Hi EveryBody!!!!
 
 I am ✨Pratyush Saha!!✨   
