@@ -13,7 +13,7 @@ I made this profile to contribute opensource✅(mainly opencore) and to make sim
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/ST5_5V6-4Y8AAAAM/nyan-cat-rainbow.gif" width="150" />
+  
   <br>
   <b>ＲＥＴＲＯ　ＮＹＡＮ</b>
 </p>
