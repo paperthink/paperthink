@@ -7,7 +7,7 @@ I am ✨Pratyush Saha!!✨
 
 I made this profile to contribute opensource✅(mainly opencore) and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python projects to enhance my skills! 
 
-[![Japanese Rainbow Cat](https://img.shields.io/badge/NYAN-CAT-ff69b4?style=retro&logo=javascript&logoColor=white&labelColor=000000)](https://github.com)
+![Nyan Cat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bm5qZzR4eGZ3bm5qZzR4eGZ3bm5qZzR4eGZ3bm5qZzR4&ep=v1_gifs_search&rid=giphy.gif&ct=g
 
 
 
