@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=paperthink?)
+![Visitor Badge](https://komarev.com/ghpvc/?username=paperthink&color=ff69b4&style=retro&label=VISITORS)
 
 Love   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 Hi EveryBody!!!!
@@ -7,7 +7,16 @@ I am ✨Pratyush Saha!!✨
 
 I made this profile to contribute opensource✅(mainly opencore) and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python projects to enhance my skills! 
 
-<div class="tenor-gif-embed" data-postid="5716621" data-share-method="host" data-aspect-ratio="1.58" data-width="100%"><a href="https://tenor.com/view/nyan-cat-rainbow-cat-kitten-kitty-gif-5716621">Nyan Cat Rainbow GIF</a>from <a href="https://tenor.com/search/nyan+cat-gifs">Nyan Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8b1f016a-e3dc-49e2-af6e-b331dce88a58" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/ST5_5V6-4Y8AAAAM/nyan-cat-rainbow.gif" width="150" />
+  <br>
+  <b>ＲＥＴＲＯ　ＮＹＡＮ</b>
+</p>
 
 
 
