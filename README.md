@@ -27,10 +27,10 @@ I made this profile to contribute opensource✅(mainly opencore) and to make sim
 
 <p align="center">
   
-  <br>
-  ---
+  
   <b>ＲＥＴＲＯ　ＮＹＡＮ</b>
   ---
+  
 </p>
 
 
