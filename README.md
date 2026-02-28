@@ -29,7 +29,12 @@ I am ✨Pratyush Saha!!✨
 
 I made this profile to contribute opensource✅(mainly opencore) and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python projects to enhance my skills! 
 
+
+
 ---
+[![My Skills](https://skillicons.dev/icons?i=fedora,python,figma,github)](https://skillicons.dev)
+![Fedora](https://img.shields.io/badge/Fedora-293670?style=for-the-badge&logo=fedora&logoColor=white)
+-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8b1f016a-e3dc-49e2-af6e-b331dce88a58" width="400" />
 </p>
@@ -53,4 +58,7 @@ Love Nature too!
 
 
 and pleaseeee follow me to align the support hehe😅 ☺️✨
+
+---
+
 
