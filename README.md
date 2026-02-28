@@ -27,7 +27,7 @@ Hi EveryBody!!!!
 
 I am ✨Pratyush Saha!!✨   
 
-I made this profile to contribute opensource✅(mainly opencore) and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python projects to enhance my skills! I am also learning C
+I made this profile to contribute opensource✅(mainly opencore) and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python projects to enhance my skills! 
 
 ---
 <p align="center">
