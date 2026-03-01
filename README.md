@@ -1,14 +1,14 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=paperthink&color=ff69b4&style=retro&label=VISITORS)
 
-Love   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> **and** Myself ehhe
+Love   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> **and** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ehhe
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Python+Learner" alt="Header Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Python+Learner;C+Learner" alt="Header Animation" />
   
   <br><br>
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" height="55">
+[![Status](https://img.shields.io/badge/status-active-32CD32?style=for-the-badge)](https://github.com/paperthink/nitro)
   
   &nbsp;&nbsp; 
 </p>
@@ -16,7 +16,8 @@ Love   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons
 ---
   
   <br><br>
-
+  
+<img src="https://skillicons.dev/icons?i=c" height="100" alt="C Logo" />
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" height="55">
   </a>
@@ -32,7 +33,7 @@ I made this profile to contribute opensource✅(mainly opencore) and to make sim
 
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=fedora,python,figma,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fedora,python,figma,github,c)](https://skillicons.dev)
 ![Fedora](https://img.shields.io/badge/Fedora-293670?style=for-the-badge&logo=fedora&logoColor=white)
 -
 <p align="center">
