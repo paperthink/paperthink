@@ -1,11 +1,11 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=paperthink&color=ff69b4&style=retro&label=VISITORS)
 
-Love   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> **and** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)ehhe
+Love   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> **and** 
+eehhe
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Python+Learner;Follow+me;Web+Dev+learner" alt="Header Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Python+Learner;Follow+me" alt="Header Animation" />
   
   <br><br>
 
@@ -38,7 +38,7 @@ I made this profile to contribute opensource✅(mainly opencore) and to make sim
 
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,figma,github,vscode,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,figma,github,vscode,blender,jupyternotebook)](https://skillicons.dev)
 ![Fedora](https://img.shields.io/badge/Fedora-293670?style=for-the-badge&logo=fedora&logoColor=white)
 -
 <p align="center">
