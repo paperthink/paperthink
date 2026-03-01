@@ -38,7 +38,13 @@ I made this profile to contribute opensource✅(mainly opencore) and to make sim
 
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=python,figma,github,vscode,blender,jupyternotebook)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,figma,github,vscode,blender)](https://skillicons.dev)
+<a href="https://jupyter.org">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" 
+       width="48" height="48" 
+       style="background-color: #1d1d1d; border-radius: 10px; padding: 7px;" 
+       alt="Jupyter Notebook" />
+</a>
 ![Fedora](https://img.shields.io/badge/Fedora-293670?style=for-the-badge&logo=fedora&logoColor=white)
 -
 <p align="center">
