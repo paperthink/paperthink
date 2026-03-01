@@ -37,7 +37,7 @@ I made this profile to contribute opensource✅(mainly opencore) and to make sim
 
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=fedora,python,figma,github,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fedora,python,figma,github,vscode,blender)](https://skillicons.dev)
 ![Fedora](https://img.shields.io/badge/Fedora-293670?style=for-the-badge&logo=fedora&logoColor=white)
 -
 <p align="center">
