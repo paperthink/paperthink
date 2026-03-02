@@ -47,6 +47,9 @@ I made this profile to contribute opensource✅(mainly opencore) and to make sim
 
 
 ---
+**Tech Stack**  (Learning phase)
+
+
 [![My Skills](https://skillicons.dev/icons?i=python,figma,github,c,vscode,blender,arduino)](https://skillicons.dev)
 <a href="https://jupyter.org">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" 
