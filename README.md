@@ -42,12 +42,12 @@ Hi EveryBody!!!!
 
 I am ✨Pratyush Saha!!✨   
 
-I made this profile to contribute opensource✅(mainly opencore) and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python projects to enhance my skills! 
+I made this profile to contribute opensource✅(mainly opencore) and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python projects to enhance my skills! I also make C projects(basic) and also interested in Electronics
 
 
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=python,figma,github,c,vscode,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,figma,github,c,vscode,blender,arduino)](https://skillicons.dev)
 <a href="https://jupyter.org">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" 
        width="48" height="48" 
