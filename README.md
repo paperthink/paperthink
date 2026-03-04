@@ -1,6 +1,6 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=paperthink&color=ff69b4&style=retro&label=VISITORS)
 
-Love   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> **and** [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+Love   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> **and** 
 eehhe
 
 
@@ -33,7 +33,7 @@ Hi EveryBody!!!!
 
 I am ✨Pratyush Saha!!✨   
 
-I made this profile to contribute opensource✅(mainly opencore) and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python projects to enhance my skills! Also interested in electronics
+I made this profile to contribute opensource✅(mainly opencore) and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python projects to enhance my skills! Also interested in AI(mainly intro for now)
 
 
 
@@ -41,7 +41,7 @@ I made this profile to contribute opensource✅(mainly opencore) and to make sim
 **Tech Stack**  (Learning phase)
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,figma,github,c,vscode,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,figma,github,vscode,discord)](https://skillicons.dev)
 <a href="https://jupyter.org">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" 
        width="48" height="48" 
