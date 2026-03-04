@@ -69,7 +69,6 @@ Love Nature too!
 
 
 
-
 🎀-> My fav emoji hhe
 
 
