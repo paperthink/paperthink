@@ -1,7 +1,7 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=paperthink&color=ff69b4&style=retro&label=VISITORS)
 
 Love   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> **and** <p >
-  <img src="https://img.shields.io/badge/OS-00599C?style=for-the-badge&logo=fedora&logoColor=sapphire" alt="rust Logo">
+  <img src="https://img.shields.io/badge/AI-00599C?style=for-the-badge&logo=jupyter&logoColor=sapphire" alt="rust Logo">
 </p>
 eehhe
 
@@ -33,7 +33,7 @@ Hi EveryBody!!!!
 
 I am ✨Pratyush Saha!!✨   
 
-I made this profile to contribute opensource✅(mainly opencore) and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python projects to enhance my skills! Also interested in OS field. just exploring hahah
+I made this profile to contribute opensource✅(mainly opencore) and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python projects to enhance my skills! Also interested in AI field. just exploring hahah
 
 
 
