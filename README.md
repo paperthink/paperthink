@@ -1,8 +1,11 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=paperthink&color=ff69b4&style=retro&label=VISITORS)
 
-Love   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> **and** <p >
-  <img src="https://img.shields.io/badge/AI-00599C?style=for-the-badge&logo=jupyter&logoColor=sapphire" alt="rust Logo">
+Love   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> **and**  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Physics-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTExIDJoMnYxN0gxMXYtMTd6TTEyIDE3YTMuNSAzLjUgMCAxIDEgMCA3IDMuNSAzLjUgMCAwIDEgMC03eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=" />
 </p>
+
 eehhe
 
 
@@ -33,7 +36,7 @@ Hi EveryBody!!!!
 
 I am ✨Pratyush Saha!!✨   
 
-I made this profile to contribute opensource✅(mainly opencore) and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python projects to enhance my skills! Also interested in AI field. just exploring hahah
+I made this profile to contribute opensource✅(mainly opencore) and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python projects to enhance my skills! Also interested in physics field. learning to implement programming on physics too heeh.
 
 
 
@@ -48,7 +51,9 @@ I made this profile to contribute opensource✅(mainly opencore) and to make sim
        style="background-color: #1d1d1d; border-radius: 10px; padding: 7px;" 
        alt="Jupyter Notebook" />
 </a>
-![Fedora](https://img.shields.io/badge/Fedora-293670?style=for-the-badge&logo=fedora&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-293670?style=for-the-badge&logo=fedora&logoColor=white)<p align="left">
+  <img src="https://img.shields.io/badge/Physics-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTExIDJoMnYxN0gxMXYtMTd6TTEyIDE3YTMuNSAzLjUgMCAxIDEgMCA3IDMuNSAzLjUgMCAwIDEgMC03eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=" />
+</p>
 -
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8b1f016a-e3dc-49e2-af6e-b331dce88a58" width="400" />
