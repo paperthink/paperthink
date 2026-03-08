@@ -49,9 +49,14 @@ I made this profile to contribute opensource✅(mainly opencore) and to make sim
        width="48" height="48" 
        style="background-color: #1d1d1d; border-radius: 10px; padding: 7px;" 
        alt="Jupyter Notebook" />
+       <a href="https://fedoraproject.org/">
+<a href="https://fedoraproject.org/">
+  <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/fedora.png" 
+       width="48" 
+       height="48" 
+       style="background-color: #0078D4; border-radius: 8px; padding: 8px;" 
+       alt="Fedora" />
 </a>
-![Fedora](https://img.shields.io/badge/Fedora-293670?style=for-the-badge&logo=fedora&logoColor=white)<p align="left">
-  
 -
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8b1f016a-e3dc-49e2-af6e-b331dce88a58" width="400" />
