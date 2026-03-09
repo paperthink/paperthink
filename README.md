@@ -9,7 +9,7 @@ eehhe
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Python+Learner;Follow+me" alt="Header Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;C+Learner;Python+Learner;Follow+me" alt="Header Animation" />
   
   <br><br>
 
