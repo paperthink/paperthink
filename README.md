@@ -2,14 +2,14 @@
 
 Love   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> **and**  
 
-![OS](https://img.shields.io/badge/OS-Stuff-black?style=for-the-badge&logo=fedora&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Stuff-black?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 
 eehhe
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;C+Learner;Python+Learner;Follow+me" alt="Header Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Python+Learner;Follow+me" alt="Header Animation" />
   
   <br><br>
 
@@ -35,15 +35,15 @@ Hi EveryBody!!!!
 
 I am ✨Pratyush Saha!!✨   
 
-I made this profile to contribute opensource✅(mainly opencore) and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python projects to enhance my skills! Also interested in OS stuff. just exploring
-and also learning C
+I made this profile to contribute opensource✅(mainly opencore) and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python projects to enhance my skills! Also interested in AI stuff. just exploring
+
 
 
 ---
 **Tech Stack**  (Learning phase)
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,figma,github,c,vscode,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,figma,github,vscode,discord)](https://skillicons.dev)
 <a href="https://jupyter.org">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" 
        width="48" height="48" 
