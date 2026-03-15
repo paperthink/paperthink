@@ -2,7 +2,7 @@
 
 Love   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> **and**  
 
-![AI-OS](https://img.shields.io/badge/AI-Stuff-black?style=for-the-badge&logo=fedora&logoColor=white)
+![AI-OS](https://img.shields.io/badge/AI-Stuff-black?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 
 eehhe
@@ -35,7 +35,7 @@ Hi EveryBody!!!!
 
 I am ✨Pratyush Saha!!✨   
 
-I made this profile to contribute opensource✅ and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python/C projects to enhance my skills! Also interested in AI/OS stuff. just exploring
+I made this profile to contribute opensource✅ and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python/C projects to enhance my skills! Also interested in AI stuff. just exploring
 
 
 
