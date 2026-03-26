@@ -43,7 +43,7 @@ I made this profile to contribute opensource✅ and to make simple yet useful co
 
 
 ---
-**Tech Stack**  (Learning phase)
+### **Tech Stack**  (Learning phase)
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,figma,github,vscode,discord)](https://skillicons.dev)
