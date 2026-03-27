@@ -1,10 +1,10 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=paperthink&color=ff69b4&style=retro&label=VISITORS)
 
 Love   
-            <img src="https://img.shields.io/badge/lang-14354C?style=for-the-badge&logo=c&logoColor=white" height="40">
+            <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="40">
            **and**  
 
-![AI-OS](https://img.shields.io/badge/OS-Stuff-black?style=for-the-badge&logo=fedora&logoColor=white) 
+![AI-OS](https://img.shields.io/badge/AI-Stuff-black?style=for-the-badge&logo=anthropic&logoColor=white) 
 
 
 
@@ -38,7 +38,7 @@ Hi EveryBody!!!!
 
 I am ✨Pratyush Saha!!✨   
 
-I made this profile to contribute opensource✅ and to make simple yet useful code! For now, I am in a learning stage(learning c)🖌️ And I currently make small simple python/C projects to enhance my skills! Also interested in OS stuff. just exploring ehehe
+I made this profile to contribute opensource✅ and to make simple yet useful code! For now, I am in a learning stage(learning Python)🖌️ And I currently make small simple python/C projects to enhance my skills! Also interested in AI stuff. just exploring ehehe
 
 
 
@@ -46,7 +46,7 @@ I made this profile to contribute opensource✅ and to make simple yet useful co
 ### **Tech Stack**  (Learning phase)
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,figma,github,vscode,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,figma,github,vscode,discord)](https://skillicons.dev)
 <a href="https://jupyter.org">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" 
        width="48" height="48" 
