@@ -1,5 +1,5 @@
-*notice: I will be inactive for some time due to my studies. I am a school student :) Take care*
-
+*Notice: I will be inactive for some time due to my studies. I am a school student :) Take care* **[02/04/2026]**
+-
 ![Visitor Badge](https://komarev.com/ghpvc/?username=paperthink&color=ff69b4&style=retro&label=VISITORS)
 
 Love   
