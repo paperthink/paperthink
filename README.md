@@ -1,3 +1,5 @@
+*notice: I will be inactive for some time due to my studies. I am a school student :) Take care*
+
 ![Visitor Badge](https://komarev.com/ghpvc/?username=paperthink&color=ff69b4&style=retro&label=VISITORS)
 
 Love   
@@ -16,7 +18,7 @@ heehhe
   
   <br><br>
 
-[![Status](https://img.shields.io/badge/status-active-32CD32?style=for-the-badge)](https://github.com/paperthink/nitro)
+[![Status](https://img.shields.io/badge/status-inactive-32CD32?style=for-the-badge&color=red)](https://github.com/paperthink/nitro)
   
   &nbsp;&nbsp; 
 </p>
