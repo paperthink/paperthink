@@ -6,7 +6,7 @@ Love
             <img src="https://img.shields.io/badge/Lang-14354C?style=for-the-badge&logo=c&logoColor=white" height="40">
            **and**  
 
-![AI-OS](https://img.shields.io/badge/AI-Stuff-black?style=for-the-badge&logo=anthropic&logoColor=white) 
+![AI-OS](https://img.shields.io/badge/OS-Stuff-black?style=for-the-badge&logo=fedora&logoColor=white) 
 
 
 
