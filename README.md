@@ -3,18 +3,16 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=paperthink&color=ff69b4&style=retro&label=VISITORS)
 
 Love   
-            <br>  <img src="https://img.shields.io/badge/Lang-14354C?style=for-the-badge&logo=c&logoColor=white" height="40">
+            <br>  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="40">
            **and**  
 
-![AI-OS-Crypto](https://img.shields.io/badge/os-Stuff-black?style=for-the-badge&logo=fedora&logoColor=white) 
-
-
+![AI-OS-MaterialScience](https://img.shields.io/badge/material_Science-Stuff-black?style=for-the-badge&logo=react&logoColor=white) 
 
 heehhe
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;C+Learner;Follow+me" alt="Header Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Python+Learner;Follow+me" alt="Header Animation" />
   
   <br><br>
 
@@ -33,6 +31,11 @@ heehhe
   <b>My Computer is my bro</b>
 </p>
 
+            
+![Chemistry](https://img.shields.io/badge/Chemistry_is_also_my_fav_subject-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+            
+
+
 <br><br>
 
 ---
@@ -40,7 +43,7 @@ Hi EveryBody!!!!
 
 I am ✨Pratyush Saha!!✨   
 
-I made this profile to contribute opensource✅ and to make simple yet useful code! For now, I am in a learning stage(learning python/c)🖌️ And I currently make small simple python/C projects to enhance my skills! Also interested in OS stuff. just exploring ehehe
+I made this profile to contribute opensource✅/openscience heheh and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python projects to enhance my skills! Also interested in material science stuff. just exploring ehehe
 
 
 
@@ -48,7 +51,7 @@ I made this profile to contribute opensource✅ and to make simple yet useful co
 ### **Tech Stack**  (Learning phase)
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,figma,github,vscode,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,figma,github,vscode,discord)](https://skillicons.dev)
 <a href="https://jupyter.org">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" 
        width="48" height="48" 
