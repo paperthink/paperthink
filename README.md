@@ -6,7 +6,7 @@ Love
             <br>  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="40">
            **and**  
 
-![AI-OS-MaterialScience](https://img.shields.io/badge/material_Science-Stuff-black?style=for-the-badge&logo=react&logoColor=white) 
+![AI-OS-Physics](https://img.shields.io/badge/Physics-Stuff-black?style=for-the-badge&logo=react&logoColor=white) 
 
 heehhe
 
@@ -32,7 +32,7 @@ heehhe
 </p>
 
             
-![Chemistry](https://img.shields.io/badge/Chemistry_is_also_my_fav_subject-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Physics](https://img.shields.io/badge/Physics_is_also_my_fav_subject-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
             
 
 
@@ -43,7 +43,7 @@ Hi EveryBody!!!!
 
 I am ✨Pratyush Saha!!✨   
 
-I made this profile to contribute opensource✅/openscience heheh and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python projects to enhance my skills! Also interested in material science stuff. just exploring ehehe
+I made this profile to contribute opensource✅/openscience heheh and to make simple yet useful code! For now, I am in a learning stage(learning python)🖌️ And I currently make small simple python projects to enhance my skills! Also interested in physics stuff. just exploring ehehe
 
 
 
