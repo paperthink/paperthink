@@ -1,4 +1,4 @@
-*Notice: I will be inactive for some time due to my studies. I am a school student :) Take care* **[02/04/2026]**
+p*Notice: I will be inactive for some time due to my studies. I am a school student :) Take care* **[02/04/2026]**
 -
 ![Visitor Badge](https://komarev.com/ghpvc/?username=paperthink&color=ff69b4&style=retro&label=VISITORS)
 
@@ -43,7 +43,7 @@ heehhe
 ![OSy](https://img.shields.io/badge/Sanskrit_is_also_my_favourite_subject-20232A?style=for-the-badge&logo=lotus&logoColor=61DAFB)
 
 <p align="left">
-  <code style="font-size: 20px;">📚 <b>SANSKRIT | संस्कृतम्</b></code>
+  <code style="font-size: 20px;">📚 <b>SANSKRIT | Om Shanti</b></code>
 </p>
 
 <br><br>
