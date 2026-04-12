@@ -35,15 +35,9 @@ heehhe
   <span style="color: #FFD700;">🕉️</span>
 </h1>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/fortawesome/Font-Awesome/6.x/svgs/solid/pen-nib.svg" width="30" height="30" style="filter: invert(85%) sepia(50%) saturate(1000%) hue-rotate(360deg);"> 
-  <b>Sanskrit is my passion</b>
-</p>
 
-![OSy](https://img.shields.io/badge/Sanskrit_is_also_my_favourite_subject-20232A?style=for-the-badge&logo=lotus&logoColor=61DAFB)
-
-<p align="left">
-  <code style="font-size: 20px;">📚 <b>SANSKRIT | Om Shanti</b></code>
+<p align="center">
+  <code style="font-size: 20px;">📚 <b>ॐ शांति ॐ</b></code>
 </p>
 
 <br><br>
