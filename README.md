@@ -12,7 +12,7 @@ heehhe
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;C+Learner;Follow+me" alt="Header Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Python+Learner;Follow+me" alt="Header Animation" />
   
   <br><br>
 
@@ -57,17 +57,10 @@ I made this profile to contribute opensource✅ heheh and to make simple yet use
 
 [![My Skills](https://skillicons.dev/icons?i=python,figma,github,vscode,discord)](https://skillicons.dev)
 <a href="https://jupyter.org">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" 
-       width="48" height="48" 
-       style="background-color: #1d1d1d; border-radius: 10px; padding: 7px;" 
-       alt="Jupyter Notebook" />
-       <a href="https://fedoraproject.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48"/>
+</a>&nbsp;&nbsp;
 <a href="https://fedoraproject.org/">
-  <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/fedora.png" 
-       width="48" 
-       height="48" 
-       style="background-color: #0078D4; border-radius: 8px; padding: 8px;" 
-       alt="Fedora" />
+<img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/fedora.png" width="48"/>
 </a>
 -
 <p align="center">
