@@ -3,16 +3,16 @@ p*Notice: I will be inactive for some time due to my studies. I am a school stud
 ![Visitor Badge](https://komarev.com/ghpvc/?username=paperthink&color=ff69b4&style=retro&label=VISITORS)
 
 Love   
-            <br>  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="40">
+            <br>  <img src="https://img.shields.io/badge/Lang-14354C?style=for-the-badge&logo=c&logoColor=white" height="40">
            **and**  
 
-![AI-OS](https://img.shields.io/badge/AI-Stuff-black?style=for-the-badge&logo=anthropic&logoColor=white) 
+![AI-OS](https://img.shields.io/badge/OS-Stuff-black?style=for-the-badge&logo=fedora&logoColor=white) 
 
 heehhe
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Python+Learner;Follow+me" alt="Header Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;C;Follow+me" alt="Header Animation" />
   
   <br><br>
 
@@ -55,7 +55,7 @@ I made this profile to contribute opensource✅ heheh and to make simple yet use
 ### **Tech Stack**  (Learning phase)
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,figma,github,vscode,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,figma,github,vscode,discord)](https://skillicons.dev)
 <a href="https://jupyter.org">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48"/>
 </a>&nbsp;&nbsp;
