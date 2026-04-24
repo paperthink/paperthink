@@ -6,7 +6,7 @@ Love
             <br>  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="40">
            **and**  
 
-![OS-AI](https://img.shields.io/badge/AI-Stuff-black?style=for-the-badge&logo=anthropic&logoColor=white) 
+![OS-AI](https://img.shields.io/badge/Web_Research-Stuff-black?style=for-the-badge&logo=react&logoColor=white) 
 
 heehhe
 
@@ -55,7 +55,7 @@ I made this profile to contribute opensource✅ heheh and to make simple yet use
 ### **Tech Stack**  (Learning phase)
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,figma,github,vscode,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,c,figma,github,vscode,discord)](https://skillicons.dev)
 <a href="https://jupyter.org">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48"/>
 </a>&nbsp;&nbsp;
