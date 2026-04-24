@@ -6,13 +6,13 @@ Love
             <br>  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="40">
            **and**  
 
-![AI-OS](https://img.shields.io/badge/AI-Stuff-black?style=for-the-badge&logo=anthropic&logoColor=white) 
+![OS-Cybersecurity](https://img.shields.io/badge/cybersecurity-Stuff-black?style=for-the-badge&logo=redhat&logoColor=white) 
 
 heehhe
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Python;Follow+me" alt="Header Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Python+Learner;Follow+me" alt="Header Animation" />
   
   <br><br>
 
@@ -47,7 +47,7 @@ Hi EveryBody!!!!
 
 I am ✨Pratyush Saha!!✨   
 
-I made this profile to contribute opensource✅ heheh and to make simple yet useful code! For now, I am in a learning stage(learning c/python)🖌️ And I currently make small simple c/python projects to enhance my skills! Also interested in AI stuff. just exploring ehehe
+I made this profile to contribute opensource✅ heheh and to make simple yet useful code! For now, I am in a learning stage(learning c/python)🖌️ And I currently make small simple c/python projects to enhance my skills! Also interested in cybersecurity stuff. just exploring ehehe
 
 
 
