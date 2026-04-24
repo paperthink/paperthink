@@ -1,4 +1,4 @@
-*Notice: I will be inactive for some time due to my studies. I am a school student :) Take care* **[02/04/2026]**
+_*Notice: I will be inactive for some time due to my studies. I am a school student :) Take care* **[02/04/2026]**
 -
 ![Visitor Badge](https://komarev.com/ghpvc/?username=paperthink&color=ff69b4&style=retro&label=VISITORS)
 
@@ -6,7 +6,7 @@ Love
             <br>  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="40">
            **and**  
 
-![OS-Cybersecurity](https://img.shields.io/badge/cybersecurity-Stuff-black?style=for-the-badge&logo=redhat&logoColor=white) 
+![OS-AI](https://img.shields.io/badge/AI-Stuff-black?style=for-the-badge&logo=anthropic&logoColor=white) 
 
 heehhe
 
@@ -47,7 +47,7 @@ Hi EveryBody!!!!
 
 I am ✨Pratyush Saha!!✨   
 
-I made this profile to contribute opensource✅ heheh and to make simple yet useful code! For now, I am in a learning stage(learning c/python)🖌️ And I currently make small simple c/python projects to enhance my skills! Also interested in cybersecurity stuff. just exploring ehehe
+I made this profile to contribute opensource✅ heheh and to make simple yet useful code! For now, I am in a learning stage(learning c/python)🖌️ And I currently make small simple c/python projects to enhance my skills! Also interested in computer stuff. just exploring ehehe
 
 
 
@@ -98,3 +98,4 @@ and pleaseeee follow me to align the support hehe😅 ☺️✨
 ---
 
 
+_
