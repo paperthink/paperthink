@@ -3,7 +3,7 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=paperthink&color=ff69b4&style=retro&label=VISITORS)
 
 Love   
-            <br>  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="40">
+            <br>  <img src="https://img.shields.io/badge/ Lang-14354C?style=for-the-badge&logo=c&logoColor=white" height="40">
            **and**  
 
 ![OS-AI](https://img.shields.io/badge/OS-Stuff-black?style=for-the-badge&logo=glitch&logoColor=white) 
