@@ -1,4 +1,4 @@
-*Notice: I will be inactive for some time due to my studies. I am a school student :) Take care* **[02/04/2026]**
+*Notice: I can be inactive for some time due to my studies. I am a school student :) Take care/ Follow me too hihii* 
 -
 ![Visitor Badge](https://komarev.com/ghpvc/?username=paperthink&color=ff69b4&style=retro&label=VISITORS)
 
@@ -16,7 +16,7 @@ heehhe
   
   <br><br>
 
-[![Status](https://img.shields.io/badge/status-inactive-32CD32?style=for-the-badge&color=red)](https://github.com/paperthink/nitro)
+[![Status](https://img.shields.io/badge/status-seldom-32CD32?style=for-the-badge&color=greem)](https://github.com/paperthink/nitro)
   
   &nbsp;&nbsp; 
 </p>
