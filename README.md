@@ -6,7 +6,7 @@ Love
             <br>  <img src="https://img.shields.io/badge/ Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="40">
            **and**  
 
-![OS-AI](https://img.shields.io/badge/NeuralNetwork-Stuff-black?style=for-the-badge&logo=anthropic&logoColor=white) 
+![AI-QUANTI](https://img.shields.io/badge/Money-Stuff-black?style=for-the-badge&logo=phonepe&logoColor=white) 
 
 heehhe
 
@@ -47,7 +47,7 @@ Hi EveryBody!!!!
 
 I am ✨Pratyush Saha!!✨   
 
-I made this profile to contribute opensource✅ heheh and to make simple yet useful code! For now, I am in a learning stage(learning c/python)🖌️ And I currently make small simple c/python projects to enhance my skills! Also interested in computer stuff. just exploring ehehe
+I made this profile to contribute opensource✅ heheh and to make simple yet useful code! For now, I am in a learning stage(learning c/python)🖌️ And I currently make small simple c/python projects to enhance my skills! Also interested in computer and money stuff. just exploring ehehe
 
 
 
