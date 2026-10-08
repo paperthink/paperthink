@@ -1,6 +1,8 @@
 *Notice: I can be inactive for some time due to my studies. I am a school student :) Take care/ Follow me too hihii* 
 -
+
 ![Visitor Badge](https://komarev.com/ghpvc/?username=paperthink&color=ff69b4&style=retro&label=VISITORS)
+
 
 Love   
             <br>  <img src="https://img.shields.io/badge/ Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="40">
