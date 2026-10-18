@@ -2,8 +2,7 @@
 -
 
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=paperthink&color=ff69b4&style=retro&label=VISITORS)
-
+![Visitor Badge](https://vbr.nathanchung.dev/badge?page_id=paperthink&color=ff69b4&style=flat-square&text=VISITORS)
 
 
 Love   
