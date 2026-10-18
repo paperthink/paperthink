@@ -1,7 +1,9 @@
 *Notice: I can be inactive for some time due to my studies. I am a school student :) Take care/ Follow me too hihii* 
 -
 
+
 ![Visitor Badge](https://komarev.com/ghpvc/?username=paperthink&color=ff69b4&style=retro&label=VISITORS)
+
 
 
 Love   
